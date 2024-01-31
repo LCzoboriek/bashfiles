@@ -3,7 +3,7 @@
 - Bash_profiles are denoted with a period at first due to the fact that they are specific for that particular user
 - Typically in a bash_profile the first thing that is run is .bashrc like below
 
-  ```
+  ```bash
 
   # .bash_profile
 
